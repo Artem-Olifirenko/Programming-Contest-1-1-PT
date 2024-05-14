@@ -1,4 +1,6 @@
 Условие задачи:
+
+
 ![image](https://github.com/Artem-Olifirenko/Programming-Contest-1-1-PT/assets/97922268/567a2bc2-dada-4bc0-9561-63cc03303057)
 ![image](https://github.com/Artem-Olifirenko/Programming-Contest-1-1-PT/assets/97922268/c7381fff-a824-4a13-9eff-e7106a969913)
 
